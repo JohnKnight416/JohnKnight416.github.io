@@ -1,3 +1,5 @@
+/* Lines 14-20 are commented out b/c they are connectected to the HTML line, "<!--<a class="hidden links"/> <a id="sword">Sword</a>-->"
+under the HTML title, "<title>John Lee's Website</title>" which are currently unavailable in the HTML file*/
 p {
     color: green;
     font-size: 50px;
@@ -6,11 +8,13 @@ p {
 
 .hidden-links {
 	text-decoration: none;
-	color: #536482;		/* This is a comment, and this color is a greyish-blue */
+	color: #536482;		// This is a comment, and this color is a greyish-blue
 }
 
+/*
 #sword{
 	font-family: helvetica, san-serif;
 	font-size: 16px;
 	color: red;
 }
+*/
