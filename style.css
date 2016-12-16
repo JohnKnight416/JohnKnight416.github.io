@@ -1,7 +1,7 @@
 /* Lines 14-20 are commented out b/c they are connectected to the HTML line, "<!--<a class="hidden links"/> <a id="sword">Sword</a>-->"
 under the HTML title, "<title>John Lee's Website</title>" which are currently unavailable in the HTML file*/
 p {
-    color: green;
+    color: #ffffff;
     font-size: 50px;
     text-align: center;
 }
